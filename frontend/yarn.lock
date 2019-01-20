@@ -3758,17 +3758,17 @@ graphql-codegen-core@0.14.5:
     ts-log "2.1.4"
     winston "3.1.0"
 
-graphql-codegen-introspection-template@0.14.5:
-  version "0.14.5"
-  resolved "https://registry.yarnpkg.com/graphql-codegen-introspection-template/-/graphql-codegen-introspection-template-0.14.5.tgz#0a983bd0a36f574c412f3134c90d234bf3ff9eec"
-  integrity sha512-ZLl2sQ8/HUQjPLaDQyP5VPfN/HGkXGjgBuTlRIZiTcD/6Ki2MLJAe+G4gK+PA14erlXrVrpAnCg9wBpET+e44g==
+graphql-codegen-introspection-template@0.16.0:
+  version "0.16.0"
+  resolved "https://registry.yarnpkg.com/graphql-codegen-introspection-template/-/graphql-codegen-introspection-template-0.16.0.tgz#bdb4f6b51ec4c067f8fcf3943384dd38769cf761"
+  integrity sha512-sNN3cvRIYe/a50q4IIeUf3A13jNAL3T40LXh/qcA6jAFIyp3y5C0JFrmPyGpdRmc5G4sldLOMdGPEJJLBqntvA==
   dependencies:
-    graphql-codegen-introspection "0.14.5"
+    graphql-codegen-introspection "0.16.0"
 
-graphql-codegen-introspection@0.14.5:
-  version "0.14.5"
-  resolved "https://registry.yarnpkg.com/graphql-codegen-introspection/-/graphql-codegen-introspection-0.14.5.tgz#23f16550cfbfcc94d4a1b24415ad078e8b2271ca"
-  integrity sha512-6PZlnHgsga5k/QK2gQnCSklqzP1EYBlZ4WSOwL5xEMLurSVGM/DvxiAfMWUBtMZebfFam+x8Cu68omoU6SXBFw==
+graphql-codegen-introspection@0.16.0:
+  version "0.16.0"
+  resolved "https://registry.yarnpkg.com/graphql-codegen-introspection/-/graphql-codegen-introspection-0.16.0.tgz#795633d71d36e46aa23bd059ac4c9aecc82ba8fb"
+  integrity sha512-iTSZWPVbSxXym4Fq5M2xo0EnDTRE6W7DYLw3kgnlfww9PoVP8DjJVGxZq3gA97I04CqiogarRg8MDyyfbdaIqQ==
 
 graphql-codegen-plugin-helpers@0.14.5:
   version "0.14.5"
@@ -8168,15 +8168,15 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
+typescript@3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.1.1.tgz#3362ba9dd1e482ebb2355b02dfe8bcd19a2c7c96"
+  integrity sha512-Veu0w4dTc/9wlWNf2jeRInNodKlcdLgemvPsrNpfu5Pq39sgfFjvIIgTsvUHCoLBnMhPoUA+tFxsXjU6VexVRQ==
+
 typescript@3.1.6:
   version "3.1.6"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.1.6.tgz#b6543a83cfc8c2befb3f4c8fba6896f5b0c9be68"
   integrity sha512-tDMYfVtvpb96msS1lDX9MEdHrW4yOuZ4Kdc4Him9oU796XldPYF/t2+uKoX0BBa0hXXwDlqYQbXY5Rzjzc5hBA==
-
-typescript@3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.2.2.tgz#fe8101c46aa123f8353523ebdcf5730c2ae493e5"
-  integrity sha512-VCj5UiSyHBjwfYacmDuc/NOk4QQixbE+Wn7MFJuS0nRuPQbof132Pw4u53dm264O8LPc2MVsc7RJNml5szurkg==
 
 uglify-es@^3.3.4:
   version "3.3.9"
